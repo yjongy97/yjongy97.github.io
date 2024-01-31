@@ -23,4 +23,5 @@ social: true # includes social icons at the bottom of the page
 My name is Jongyeon, and I am a Ph.D. student in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/) and [VISE](https://www.vanderbilt.edu/vise/)(Vanderbilt Institute for Surgery and Engineering).
 
 Email: {firstname}.{lastname}@vanderbilt.edu
+
 Office: Featheringill Jacobs Hall 360
