@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first paper got accepted to [IEEE Access](https://ieeeaccess.ieee.org/)!     [Check it out](https://ieeexplore.ieee.org/abstract/document/10287972)!
+My first paper got accepted to [IEEE Access](https://ieeeaccess.ieee.org/)!　[Check it out](https://ieeexplore.ieee.org/abstract/document/10287972)!
