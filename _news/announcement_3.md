@@ -6,4 +6,5 @@ related_posts: false
 ---
 
 I completed my Bachelor's degree at [Dongguk University](https://www.dongguk.edu/), Seoul!
+
 (B.S. in Statistics , B.S. in Software Convergence)
