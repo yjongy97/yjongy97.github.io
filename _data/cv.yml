@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 2nd September 1997
     - name: Languages
-      value: English, Korean
+      value: English, Korean 
 
 - title: Education
   type: time_table
