@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am starting my graduate study as Ph.D. student at [Vanderbilt University](https://www.vanderbilt.edu/), advised by [Prof. Daniel Moyer](https://engineering.vanderbilt.edu/bio/daniel-moyer)!
+I am starting my graduate study as Ph.D. student at [Vanderbilt University](https://www.vanderbilt.edu/)!

@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: yjy.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -20,12 +17,18 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-My name is Jongyeon, and I am a Ph.D. student in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/) and [VISE](https://www.vanderbilt.edu/vise/)(Vanderbilt Institute for Surgery and Engineering).  
-　  
-I am currently doing my research at [VINE Laboratory](https://vine-lab.notion.site/VINE-Lab-a94a569239824c7b8e8364853c88d8c0) and also a affiliated student at [MASI Laboratory](https://my.vanderbilt.edu/masi/).
+My name is Jongyeon Yoon, and I am a Ph.D. student in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/) 
+and a member of [Vanderbilt Institute for Surgery and Engineering](https://www.vanderbilt.edu/vise/)(VISE). 
+ 
+Currently, I am doing my research at [VINE Lab](https://vine-lab.notion.site/VINE-Lab-a94a569239824c7b8e8364853c88d8c0) under the guidance of [Professor Daniel Moyer](https://engineering.vanderbilt.edu/bio/daniel-moyer). 
+Additionally, I am also an affiliated student at [MASI Lab](https://my.vanderbilt.edu/masi/) advised by [Professor Bennett Landman](https://engineering.vanderbilt.edu/bio/bennett-landman).
+My research focus lies in the application of Deep Learning to medical imaging, with a particular emphasis on MRI, specifically dMRI.  
 
+Before pursuing Ph.D., I completed my undergraduate programs in Statistics and Software Convergence (double-major) at [Dongguk University](https://www.dongguk.edu/).
+During this time, I was actively involved in [DAMI Lab](https://sites.google.com/view/wj926), working under advise by [Professor Woojin Lee](https://aix.dongguk.edu/aid1_2/15?ckattempt=1).
 　  
 　  
+
 Email: {firstname}.{lastname}@vanderbilt.edu  
  
 Office: Featheringill Jacobs Hall 360
