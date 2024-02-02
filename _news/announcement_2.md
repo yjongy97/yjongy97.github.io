@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am starting my graduate study as Ph.D. student at [Vanderbilt University](https://www.vanderbilt.edu/)!
+Starting my graduate study as Ph.D. student at [Vanderbilt University](https://www.vanderbilt.edu/)!
