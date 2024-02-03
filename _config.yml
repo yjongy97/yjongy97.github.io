@@ -284,7 +284,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Yoon]
-  first_name: [Jongyeon, J., Jongyeon]
+  first_name: [Jongyeon, J.]
 
   style: apa
   locale: en
